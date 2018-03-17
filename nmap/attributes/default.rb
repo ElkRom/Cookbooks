@@ -1,0 +1,1 @@
+default['nmap']['hostname']='roman'

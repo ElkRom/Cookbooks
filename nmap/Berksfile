@@ -1,0 +1,4 @@
+# frozen_string_literal: true
+source 'https://supermarket.chef.io'
+cookbook "nmap", path: "/root/chef-repo/cookbooks/nmap"
+metadata
